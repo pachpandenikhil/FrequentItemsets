@@ -4,7 +4,7 @@ Apache Spark Distributed Application
 - Apache Spark application developed in Python to find frequent itemsets with minimum support ratio given transaction data.
 - Implemented SON algorithm for finding frequent itemsets with Apriori algorithm as discovery algorithm for each chunk.
 
-Core Technology: Apache Spark, Python, AWS (Amazon EC2 and Amazon S3).
+Core Technology: Apache Spark, Python, AWS (Amazon EC2).
 
 # Execution
 The program takes 3 arguments:
